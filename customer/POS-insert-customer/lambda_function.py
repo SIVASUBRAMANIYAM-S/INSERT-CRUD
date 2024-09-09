@@ -83,14 +83,14 @@ if __name__ == "__main__":
     events = {
         "body": json.dumps({
             "shopId": "1",
-            "customerName": "rahul",
-            "phoneNumber": "9894654423",
-            "email": "rahulvel123@gmail.com",
-            "address": "123 Main St",
-            "city": "chennai",
+            "customerName": "salman",
+            "phoneNumber": "9842352442",
+            "email": "salmanthaju@gmail.com",
+            "address": "VNR nagar",
+            "city": "trichy",
             "state": "Tamil Nadu",
             "country": "India",
-            "postCode": "623432"
+            "postCode": "606485"
         })
     }
     lambda_handler(events, None)
