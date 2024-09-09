@@ -90,7 +90,7 @@ if __name__ == "__main__":
             "city": "trichy",
             "state": "Tamil Nadu",
             "country": "India",
-            "postCode": "606485"
+            "postCode": "606455"
         })
     }
     lambda_handler(events, None)
